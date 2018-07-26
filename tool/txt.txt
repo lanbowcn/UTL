@@ -1,0 +1,3 @@
+unit1   KNN
+unit2   朴素贝叶斯
+unit3   逻辑回归
