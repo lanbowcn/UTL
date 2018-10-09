@@ -7,6 +7,7 @@
     <orderEntry type="jdk" jdkName="Python 3.5 (MLinAction)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="sdp" />
+    <orderEntry type="module" module-name="exe1" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

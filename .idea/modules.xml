@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MLinAction.iml" filepath="$PROJECT_DIR$/.idea/MLinAction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exe1/.idea/exe1.iml" filepath="$PROJECT_DIR$/../exe1/.idea/exe1.iml" />
       <module fileurl="file://D:/pyWork/sdp/.idea/sdp.iml" filepath="D:/pyWork/sdp/.idea/sdp.iml" />
     </modules>
   </component>
